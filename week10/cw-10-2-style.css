@@ -1,0 +1,17 @@
+#navbar{background-color: antiquewhite;
+    height: 50px;
+    width: 75%;
+    margin: auto;    
+    text-align: center;
+}
+#navbar a{
+    margin: auto;
+    height: 50px;
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+}
+#navbar a:hover{
+    background-color: grey;
+    color: white;
+}
